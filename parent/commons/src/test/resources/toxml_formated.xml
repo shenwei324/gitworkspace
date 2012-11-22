@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+    <field type="map">
+        <field name="f" value="true" type="boolean"/>
+        <field name="d" value="3.14" type="double"/>
+        <field name="smap3" type="map">
+            <field name="a5" value="aa5" type="string"/>
+            <field name="a6" value="aa6" type="string"/>
+        </field>
+        <field name="cn" value="系统异常" type="string"/>
+        <field name="c" value="300" type="long"/>
+        <field name="smap1" type="map">
+            <field name="a1" value="aa1" type="string"/>
+            <field name="a2" value="aa2" type="string"/>
+        </field>
+        <field name="a" value="100" type="string"/>
+        <field name="j" value="1349020800000" type="timestamp"/>
+        <field name="slist" type="list">
+            <field name="0">
+                <field type="map">
+                    <field name="a3" value="aa3" type="string"/>
+                    <field name="a4" value="aa4" type="string"/>
+                </field>
+            </field>
+            <field name="1">
+                <field type="map">
+                    <field name="a7" value="aa7" type="string"/>
+                    <field name="a8" value="aa8" type="string"/>
+                </field>
+            </field>
+        </field>
+        <field name="k" value="1234567890.0123456789" type="bigdecimal"/>
+        <field name="h" value="x" type="char"/>
+        <field name="i" type="null"/>
+    </field>
+</data>
